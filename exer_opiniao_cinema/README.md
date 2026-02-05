@@ -24,4 +24,7 @@ Usar:
 * Estrutura de reprodução (while ou do-while).  
 * switch-case para tratar a opinião.  
 * Contadores e acumuladores (total de pessoas, total por opinião, soma das idades dos que responderam 5).  
-* if-else para atualizar maior idade, validar dados, etc.  
+* if-else para atualizar maior idade, validar dados, etc. 
+ 
+
+* [Código do Exercício](opiniao_cinema.c)
