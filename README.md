@@ -1,2 +1,2 @@
-# exercicios_faculdade-exercicios
+# Exercicios-faculdade
 Pasta destinada a armazenar exercícios da Faculdade.
